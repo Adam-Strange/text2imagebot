@@ -27,7 +27,7 @@ import torch
 
 load_dotenv()
 
-bot_token = os.getenv("BOT_TOKEN")
+bot_token = os.getenv("7832512483:AAHRzHiGwYMrmmEM575FuyhpwB1FnVXwJ6A")
 api_id = os.getenv("API_ID")
 api_hash = os.getenv("API_HASH")
 
